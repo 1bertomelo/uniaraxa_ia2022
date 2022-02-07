@@ -1,0 +1,14 @@
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.csproj.AssemblyReference.cache
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.AssemblyInfoInputs.cache
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.AssemblyInfo.cs
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.csproj.CoreCompileInputs.cache
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\bin\Debug\netcoreapp3.1\JogoDaVelhaIA.exe
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\bin\Debug\netcoreapp3.1\JogoDaVelhaIA.deps.json
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\bin\Debug\netcoreapp3.1\JogoDaVelhaIA.runtimeconfig.json
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\bin\Debug\netcoreapp3.1\JogoDaVelhaIA.runtimeconfig.dev.json
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\bin\Debug\netcoreapp3.1\JogoDaVelhaIA.dll
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\bin\Debug\netcoreapp3.1\JogoDaVelhaIA.pdb
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.dll
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.pdb
+E:\Faculdade\2022_1\ia\aula 2\preparacao\JogoDaVelhaIA\JogoDaVelhaIA\obj\Debug\netcoreapp3.1\JogoDaVelhaIA.genruntimeconfig.cache
